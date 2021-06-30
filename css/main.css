@@ -1,4 +1,11 @@
-body{
-	background: #ccc;
-	color: #000e;
+body {
+    background: #ccc;
+    color: #000e;
+}
+h1 {
+    font-size: 25px;
+    margin-bottom: :10px;
+}
+p {
+    color: #ddd;
 }
